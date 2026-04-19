@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Arkansas, US",
-  "export_job_id": "49e8aee6-84b6-451e-bb3b-cd1624e753e0",
+  "export_job_id": "6629df3f-5289-4a21-b808-348fd7a52272",
   "github_org": "Beamstation-Datasets",
   "id_short": 351730,
   "location_name": "Arkansas",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-arkansas-us-sample-351730",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/351730/beamstation_351730_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_pct": 7.69,
+  "sample_pct": 8.33,
   "sample_records": 3,
-  "sample_sha256": "c0a63b93723b686bf0474725c751d4f0a833a77086cfbac5206d27d0faf4cff5",
-  "sample_size_bytes": 25969,
-  "total_records": 39,
-  "updated_at": "2026-04-08T06:58:26.707860+00:00"
+  "sample_sha256": "3ad21726dd35916848a90cd8abb359426a465d956ab95dfe6386f2e6f75ad838",
+  "sample_size_bytes": 25987,
+  "total_records": 36,
+  "updated_at": "2026-04-15T10:27:17.886811+00:00"
 }
