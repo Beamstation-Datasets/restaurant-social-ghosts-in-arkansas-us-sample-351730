@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6629df3f-5289-4a21-b808-348fd7a52272",
+  "export_job_id": "7c5321ee-128f-444b-8db5-ffb89ac8db58",
   "id_short": 351730,
-  "published_at": "2026-04-19T07:22:06Z",
+  "published_at": "2026-04-22T19:36:27Z",
   "repo_name": "restaurant-social-ghosts-in-arkansas-us-sample-351730",
   "sample_asset_name": "beamstation_351730_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/351730/beamstation_351730_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "3ad21726dd35916848a90cd8abb359426a465d956ab95dfe6386f2e6f75ad838",
-  "sample_size_bytes": 25987,
-  "total_records": 36
+  "sample_records": 1,
+  "sample_sha256": "f53d4580cf542df768fed56a8b37ec3706dc57c0fe0bedb493c753992dc22265",
+  "sample_size_bytes": 20225,
+  "total_records": 4
 }
